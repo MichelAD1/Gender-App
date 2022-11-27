@@ -1,0 +1,7 @@
+{
+  "name": "predict-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
