@@ -1,7 +1,0 @@
-{
-  "name": "gender-app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
