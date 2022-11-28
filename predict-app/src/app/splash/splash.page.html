@@ -1,6 +1,6 @@
 
-<ion-content>
+<ion-content *ngFor="let img_url of dog_img">
   <div class="container ion-text-center">
-    <img src="assets/dog.jpg">
+    <img id="dog-img" alt="image" src="{{img_url}}">
   </div>
   </ion-content>
